@@ -7,12 +7,12 @@ Passenger details which are collected using GUI are stored in the Database and a
 There are 10 pages to run the entire reservation system.
 
 CONCEPTS USED :
-API - Swing
-Database - Ucanaccess (122 Tables)
-Event Handling - Awt.event
-Collection - ArrayList, Map
-PrinterJob class
-doClick method
-LayoutManager - GridBag, Grid, Flow, Box, Spring
-JDatePicker
-SimpleDateFormat
+API - Swing, 
+Database - Ucanaccess (122 Tables), 
+Event Handling - Awt.event, 
+Collection - ArrayList, Map, 
+PrinterJob class, 
+doClick method, 
+LayoutManager - GridBag, Grid, Flow, Box, Spring, 
+JDatePicker, 
+SimpleDateFormat, 
